@@ -3,7 +3,7 @@ title:       RP Blog
 email:       rparedes@gmail.com
 author:      Rich Paredes
 description: ""
-baseurl:     "www.paredes.pw"
+baseurl:     ""
 url:         "https://www.paredes.pw"
 date_format: "%b %-d, %Y"
 header_pages:
