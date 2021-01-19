@@ -7,8 +7,6 @@ baseurl:     "www.paredes.pw"
 url:         "https://www.paredes.pw"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
- - contact.html
 
 # Google services
 google_verification:
@@ -47,7 +45,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: rfparedes
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
